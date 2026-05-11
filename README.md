@@ -8,5 +8,4 @@ usage: speedtest [options]
                     -d: performs a download speed test. Use with -s or -fl.
                     -u: performs an upload speed test. Use with -s or -fl.
                     -h: outputs options to use
-i probably should've done this project earlier
 ```
