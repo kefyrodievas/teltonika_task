@@ -3,7 +3,7 @@ Build with make
 usage: speedtest [options]
                     -a: performs an automated test, use with -f
                     -f <filename>: uses a server hosts JSON file to search for the best server. Is -a flag is not present, use with -l
-                    -l: gets user's location data\n\
+                    -l: gets user's location data
                     -s <server host>: uses a specified host to perform tests, invalid if -a or -fl is used
                     -d: performs a download speed test. Use with -s or -fl.
                     -u: performs an upload speed test. Use with -s or -fl.
