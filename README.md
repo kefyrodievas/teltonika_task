@@ -1,6 +1,6 @@
 ```
 Build with make 
-usage: speedtest [options] \n
+usage: speedtest [options]
                     -a: performs an automated test, use with -f
                     -f <filename>: uses a server hosts JSON file to search for the best server. Is -a flag is not present, use with -l
                     -l: gets user's location data\n\
